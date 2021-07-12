@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!---Button-->
+    <style name="ButtonBase" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/teal_200</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/calc.btn.textSize</item>
+    </style>
+    <style name="ButtonMD" parent="ButtonBase">
+        <item name="backgroundTint">@color/teal_700</item>
+    </style>
+
+    <style name="ButtonMDDark" parent="ButtonBase">
+        <item name="backgroundTint">@color/gray_700</item>
+    </style>
+
+    <style name="ButtonMDDarker" parent="ButtonBase">
+        <item name="backgroundTint">@color/gray_800</item>
+    </style>
+
+    <style name="ButtonMDDanger" parent="ButtonBase">
+        <item name="backgroundTint">@color/red_500</item>
+    </style>
+</resources>

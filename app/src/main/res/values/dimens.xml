@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calc.input.height">72dp</dimen>
+    <dimen name="calc.btn.size">72dp</dimen>
+    <dimen name="calc.btn.sizeb">90dp</dimen>
+    <dimen name="calc.btn.sizeh">100dp</dimen>
+    <dimen name="calc.btn.space">4dp</dimen>
+    <dimen name="calc.btn.textSize">28sp</dimen>
+</resources>
